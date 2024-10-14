@@ -13,8 +13,6 @@
 <div align="center">
   <img height="400" src="https://giffiles.alphacoders.com/221/221261.gif"  />
 </div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2334514" style='border:none;'></iframe>
-
 
 ###
 
